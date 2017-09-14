@@ -41,7 +41,7 @@ A Dao of Web Design by John Allsopp in short pertains to the fact that design is
   
   # About the Author 
   
-![Author Image](Photo jay.jpeg)  
+![Author Image](_DSC0022.JPG)  
   
 Jylik Donell Buissereth is an 18 year old artist currently attending Montserrat College of Art. He was born and raised in New York until moving to Massachusets for college. As an artsist he is primarily a graphic designer however he has an immense appreciation for sculpture and enjoys working in wood more than anything. 
   
