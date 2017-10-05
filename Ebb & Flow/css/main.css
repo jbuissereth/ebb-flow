@@ -1,0 +1,150 @@
+html{
+
+  background-color: white;
+  word-spacing: normal;
+  font-size: 100%;
+  line-height: 1.15;
+  }
+
+
+/* --- felexable images --- */
+
+img{
+  max-width: 110%;
+  margin-left: -5%;
+
+	}
+
+body{
+	width: 90%;
+	max-width: 60em;
+	margin: auto;
+	}
+
+/*--- figures ---*/
+	
+figure {
+margin: 0;
+	}
+	
+/*--- typography ---*/
+
+header{
+  text-align: center;
+  color: black;
+  }
+
+/* grayscale (black to white) 0123456789abcdef */
+
+section.author {
+  margin:  0 10%;
+  }
+
+a {
+  font-weight: ;
+  color: #2455c3;
+  text-decoration: none;
+  }
+  
+a:hover {
+  text-decoration: underline;
+  }
+
+h1 {
+  
+  text-transform: capitalize;
+  font-size: 2.25em;
+  font-family: serif;
+  padding: 1em;
+  border: ;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom:.375;
+  margin-left: 1em;
+  line-height: 1.167;
+  }
+  
+h2 {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  }
+  
+p {
+  /*text-indent: 2em; */
+  font: 1.125em/1.667 Georgia, serif;
+  margin: 0 0 1.5em
+  /* font-size: 1em; */
+  color: black;
+  /* font-family: Georgia; serif; */
+  padding: 1em 0;
+  margin-top: 0em;
+  margin-bottom: 1.5em;
+  /* line-height: 1.6; */
+  }
+  
+p.byline {
+  margin-bottom: .75em;
+  }
+
+section.author h3 {
+  font: 1.125em/1.333 sans-serif;
+  margin-bottom: 0;
+  }
+
+section.author p {
+  font: .875em/1.714 Georgia, serif;
+  }
+  
+p:first-child {
+ font-size: 1.5em;
+}
+
+/* 
+p.lead-in {
+  font-size: 1.5em;
+  margin-right: -10%;
+  margin-left: -10%;
+ */
+  
+blockquote {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  
+.author {
+  padding-top: 1em;
+  border-top: 1px solid ;
+  }
+  
+figure.headshot {
+  float: left;
+  width:8em;
+  height:8em;
+  border:1em solid white;
+  border-radius: 50%;
+  margin: .25em 1em .75em 0;
+  overflow: hidden;
+  }
+  
+  figure.headshot img {
+  max-width: 110%;
+  margin-left: -5%;
+  }
+  
+/* wider screen breakpoints */
+
+@media (min-width: 48em) {
+
+figure.headshot {
+  margin-right: 0;
+  }
+ /* 
+width:8em;
+  height:8em;
+  border:1px solid white;
+  border-radius: 50%;
+ */
+}
+  
+/*   only margin can be negative */
+  
